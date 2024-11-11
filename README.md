@@ -1,1 +1,1 @@
-# sayanksingha-Bank-Customer-Churn-Model
+# Bank-Customer-Churn-Model
